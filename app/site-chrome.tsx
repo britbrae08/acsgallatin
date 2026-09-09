@@ -100,6 +100,7 @@ export function SiteFooter(){
     </div>
     <div className="wrap footer-bottom">
       <span>© {new Date().getFullYear()} Gallatin Adventist Community Services</span>
+      <a href="https://faithcraft.agency/">Powered by FaithCraft.Agency</a>
       <a href="#main">Back to top ↑</a>
     </div>
   </footer>;
